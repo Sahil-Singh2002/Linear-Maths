@@ -1,4 +1,4 @@
-# Linear Maths 
+# Plane_Geometry 
 
 For this question, we will deal with the geometry of the plane, and we will use tuples to denote points and vectors.
 
